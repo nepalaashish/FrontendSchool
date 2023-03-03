@@ -1,0 +1,33 @@
+input{
+    height: 30px;
+    width: 25%;
+    font-size: 18px;
+}
+button{
+    height: 30px;
+    width: 15%;
+    font-size: 20px;
+}
+input[type=text] {
+    background-color: #3CBC8D;
+    color: white;
+  }
+  input[type=password] {
+    background-color: #3CBC8D;
+    color: white;
+  }
+  .button {
+    background-color: #ddd;
+    border: none;
+    color: black;
+    padding: 16px 32px;
+    text-align: center;
+    font-size: 16px;
+    margin: 4px 2px;
+    transition: 0.3s;
+  }
+  .button:hover {
+    background-color: #3e8e41;
+    color: white;
+  }
+  
